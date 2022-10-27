@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @elk15
 - 👀 I’m interested in programming, web development.
-- 🌱 I’m currently learning javascript.
+- 🌱 I’m currently learning react, sass, bootstrap, redux.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
