@@ -1,5 +1,4 @@
 <h2 align="left">Hi 👋! My name is Elina and I'm a full stack developer.</h2>
-###
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
